@@ -1,0 +1,12 @@
+path: /Users/hliaqat/workspace/PhD/Courses/Spring 2024/IAT 885/assignments/cv-project/Computer-Vision-Project/data
+train: /Users/hliaqat/workspace/PhD/Courses/Spring 2024/IAT 885/assignments/cv-project/Computer-Vision-Project/data/images/train
+#test: (test dataset folder path)
+val: /Users/hliaqat/workspace/PhD/Courses/Spring 2024/IAT 885/assignments/cv-project/Computer-Vision-Project/data/images/val
+
+# Classes
+nc: 1 # replace based on your dataset's number of classes
+
+# Class names
+# replace all class names with your own classes' names
+names: ['lesion']
+
